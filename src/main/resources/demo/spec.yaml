@@ -1,0 +1,1 @@
+base_root: !file "demo/base.yaml|demo/second.yaml"
